@@ -1,0 +1,15 @@
+/home/aceracc/CodeStack/Challenges/MiniChallenge1/obj/Debug/net7.0/MiniChallenge1.csproj.AssemblyReference.cache
+/home/aceracc/CodeStack/Challenges/MiniChallenge1/obj/Debug/net7.0/MiniChallenge1.GeneratedMSBuildEditorConfig.editorconfig
+/home/aceracc/CodeStack/Challenges/MiniChallenge1/obj/Debug/net7.0/MiniChallenge1.AssemblyInfoInputs.cache
+/home/aceracc/CodeStack/Challenges/MiniChallenge1/obj/Debug/net7.0/MiniChallenge1.AssemblyInfo.cs
+/home/aceracc/CodeStack/Challenges/MiniChallenge1/obj/Debug/net7.0/MiniChallenge1.csproj.CoreCompileInputs.cache
+/home/aceracc/CodeStack/Challenges/MiniChallenge1/bin/Debug/net7.0/MiniChallenge1
+/home/aceracc/CodeStack/Challenges/MiniChallenge1/bin/Debug/net7.0/MiniChallenge1.deps.json
+/home/aceracc/CodeStack/Challenges/MiniChallenge1/bin/Debug/net7.0/MiniChallenge1.runtimeconfig.json
+/home/aceracc/CodeStack/Challenges/MiniChallenge1/bin/Debug/net7.0/MiniChallenge1.dll
+/home/aceracc/CodeStack/Challenges/MiniChallenge1/bin/Debug/net7.0/MiniChallenge1.pdb
+/home/aceracc/CodeStack/Challenges/MiniChallenge1/obj/Debug/net7.0/MiniChallenge1.dll
+/home/aceracc/CodeStack/Challenges/MiniChallenge1/obj/Debug/net7.0/refint/MiniChallenge1.dll
+/home/aceracc/CodeStack/Challenges/MiniChallenge1/obj/Debug/net7.0/MiniChallenge1.pdb
+/home/aceracc/CodeStack/Challenges/MiniChallenge1/obj/Debug/net7.0/MiniChallenge1.genruntimeconfig.cache
+/home/aceracc/CodeStack/Challenges/MiniChallenge1/obj/Debug/net7.0/ref/MiniChallenge1.dll
